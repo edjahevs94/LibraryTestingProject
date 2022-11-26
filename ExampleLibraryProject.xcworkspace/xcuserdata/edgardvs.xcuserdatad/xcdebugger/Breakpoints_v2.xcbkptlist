@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "382C6088-20ED-4FA6-B1D3-A8B59ADC0AF1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EEB9988-5D4D-400A-9DA0-B70474154215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "login(user:password:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB1C54A2-2EC5-4FDF-A7A2-0254FD21C1A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "login(user:password:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A64338D3-7F69-4532-A555-983F93B5BC92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getImage(path:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8DC0E9F-8E81-44BB-92DA-40126901C782"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "download(path:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8DC0E9F-8E81-44BB-92DA-40126901C782 - 88ad45017ee2f736"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryLearningExample.Service.download(path: Swift.String, imageName: Swift.String, completion: (Foundation.Data, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MyLibraryLearningExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgardvs/Documents/Learning/Library/ExampleLibraryProject/Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2230">
+               </Location>
+               <Location
+                  uuid = "E8DC0E9F-8E81-44BB-92DA-40126901C782 - 109d0bbd66cb6089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSProgress) -&gt; () in MyLibraryLearningExample.Service.download(path: Swift.String, imageName: Swift.String, completion: (Foundation.Data, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MyLibraryLearningExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgardvs/Documents/Learning/Library/ExampleLibraryProject/Pods/MyLibraryLearningExample/Sources/MyLibraryLearningExample/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

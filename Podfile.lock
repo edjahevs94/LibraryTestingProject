@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.4)
+  - MyLibraryLearningExample (0.1.4):
+    - Alamofire
+
+DEPENDENCIES:
+  - MyLibraryLearningExample (~> 0.1.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MyLibraryLearningExample
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  MyLibraryLearningExample: 0ed44f044e35f21d4b37c58a4e77e3a791b77226
+
+PODFILE CHECKSUM: 99c64ee7d64ad9d22d856da90f8ceee8b8e96ffb
+
+COCOAPODS: 1.11.3
